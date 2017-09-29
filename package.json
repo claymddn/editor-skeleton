@@ -1,13 +1,13 @@
 {
   "name": "editor-skeleton",
   "author": "Team Vantage",
-  "description": "Replace this with a description of your editor.",
+  "description": "Minecraft editor.",
   "version": "0.1.0",
   "vantage": {
-    "game": "Game Name",
+    "game": "Minecraft Xbox One Edition",
     "scid": "00000000-0000-0000-0000-000000000000",
     "thumbnailUrl": "https://i.imgur.com/hgdfCBd.png",
-    "name": "Campaign Editor",
+    "name": "Minecraft Editor",
     "containerFilter": "savegame.svg",
     "fileFilter": "save"
   },
